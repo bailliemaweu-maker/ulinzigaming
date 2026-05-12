@@ -28,6 +28,10 @@ const Footer = () => {
             you, our customers.</p>
         </div>
       </section>
+      <footer className='col-md-12 text-dark bg-secondary p-3'>
+        <p className='text-center'>Copyright © 2026 Ulinzi Gaming. All rights reserved.</p>
+        <marquee behavior="scroll" direction="left">Developed by Baillie Maweu</marquee>
+      </footer>
     </div>
   )
 }
